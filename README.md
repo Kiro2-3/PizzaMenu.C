@@ -1,3 +1,1 @@
-Do not steal / PLagirize
-
-Contact me first 
+Contact me for help if needed
