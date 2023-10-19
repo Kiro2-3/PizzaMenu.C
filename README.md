@@ -49,6 +49,6 @@ We welcome contributions to this project. If you'd like to contribute, please fo
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [RPenamante] License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to contact us if you have any questions or need further assistance.
